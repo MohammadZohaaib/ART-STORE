@@ -1,0 +1,13 @@
+.navbar{
+    background: black;
+
+}
+.navbar a i{
+    color: antiquewhite;
+
+}
+.border-line {
+    border-left: 2px solid #000; /* Change color and thickness as needed */
+    border-right: 2px solid #000; /* Change color and thickness as needed */
+    padding: 0 15px; /* Add padding to create space between text and border */
+  }
